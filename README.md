@@ -1,8 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/droneye/droneye/main/banner.png" alt="banner" />
-</p>
-
 <h1 align="center">Vladislav — инженер-программист</h1>
 
 <p align="center">
